@@ -41,7 +41,3 @@ print("The mode is ", statistics.mode(numcrimeslist))
 
 # calculates the median
 print("The median is ", statistics.median(numcrimeslist))
-
-
-
-
